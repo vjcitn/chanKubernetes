@@ -26,6 +26,5 @@ And see the last section in [this blog post.](https://blog.rstudio.com/2018/10/0
 
 ### Comments on microservices
 
-Comments on (organizing yaml)[https://www.reddit.com/r/kubernetes/comments/b4wigh/what_are_some_best_practices_for_organizing/?utm_source=share&utm_medium=web2x]
-
+[Discussion on organizing yaml](https://www.reddit.com/r/kubernetes/comments/b4wigh/what_are_some_best_practices_for_organizing/?utm_source=share&utm_medium=web2x)
 
